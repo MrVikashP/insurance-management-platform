@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 05 15:15:37 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0187-50ce-b736-000002d4f290 
+on database directory memory:D:\insurance-management-platform\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4d7e1886 
+Loaded from file:/C:/Users/pande/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18+36-2087
+user.dir=D:\insurance-management-platform
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
